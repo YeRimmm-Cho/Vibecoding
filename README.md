@@ -1,29 +1,31 @@
 ## 📌 토이 프로젝트 - 바이브 코딩 챗봇
 
 프로젝트명: Vibe Coding Chatbot
+
+
 개발기간: 2025.07
 
-<br><br/>
+<br>
 
 ## 🔍 주요 기능
 
-### 1. 실시간 AI 채팅 기능
+<b>1. 실시간 AI 채팅 기능</b> 
 
 - OpenAI GPT-3.5-turbo 모델 사용
 - 메시지 히스토리 유지로 대화 맥락 반영 가능
 
-### 2. JavaScript → TypeScript 마이그레이션
+<b>2. JavaScript → TypeScript 마이그레이션</b>
 
 - 처음으로 TypeScript 사용
 - DOM 요소 타입 지정, Promise 타입 처리, `tsconfig.json` 설정 등을 실습하며 타입 시스템에 익숙해짐
 
-### 3. 사용자 편의 UI
+<b>3. 사용자 편의 UI</b>
 
 - 메신저 스타일 채팅 버블
 - 자동 스크롤 및 Enter 키 전송 기능
 - 다크 모드 / 라이트 모드 토글
 
-### 4. 랜덤 명언 출력
+<b>4. 랜덤 명언 출력</b>
 
 - 새로고침 시마다 명언 갱신
 - 다크 모드에서도 명확하게 구분되는 색상/디자인 적용
@@ -41,22 +43,7 @@
 
 ## 🖥️ 화면 구성
 
-> (스크린샷은 직접 캡처해서 아래 URL에 넣어주세요)
 
-<table>
-  <tr>
-    <th>초기 화면 (명언 + 다크모드)</th>
-    <th>채팅 UI</th>
-    <th>다크모드 전환</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="이미지_경로" width="250"></td>
-    <td align="center"><img src="이미지_경로" width="250"></td>
-    <td align="center"><img src="이미지_경로" width="250"></td>
-  </tr>
-</table>
-
-<br><br/>
 
 ## 🛠️ 기술 스택
 
